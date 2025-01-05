@@ -11,6 +11,6 @@
 
 ![Ip_Block-4bit-barallel-shifter](https://github.com/user-attachments/assets/4845f3e5-f693-41f6-9c7c-ac399d810a8d)
 
-### Simaulation Waveform
+### Simulation Waveform
 
 ![sim-4bit-barallel-shifter](https://github.com/user-attachments/assets/0d3fbe31-223b-470e-8b5d-d07b0476c6ce)
