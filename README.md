@@ -6,7 +6,8 @@
 
 ### Project Contents
 - Each project conatins the following folders/ files:
-  1. Vivado Project File `<project-name>.xpr `
-  2. Source Folder: conataining the source files including the testbench code. Folder name: `<project-name>.srcs`
+  1. Vivado Project File `<project-name>.xpr `.
+  2. Source Folder: conataining the source files including the testbench code. Folder name: `<project-name>.srcs`.
   3. Schematic pdf generated after RTL analysis.
-  4. Simulation plot
+  4. Simulation plot.
+  5. Project Readme file, capturing the details about the project.
