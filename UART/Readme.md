@@ -22,3 +22,8 @@
   3. It samples the data line at the middle of each bit time to read the data bits.
   4. If a parity bit is used, it checks the parity.
   5. It detects the rising edge of the stop bit to mark the end of the data frame.
+
+#### Simulation waveform
+
+![sim](https://github.com/user-attachments/assets/e2077452-3eea-4bc8-984c-08474afaa501)
+
